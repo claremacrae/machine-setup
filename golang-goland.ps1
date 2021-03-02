@@ -1,5 +1,5 @@
 # This script
-# iwr -useb https://raw.githubusercontent.com/JayBazuzi/machine-setup/main/golang-goland.ps1 | iex
+# iwr -useb https://raw.githubusercontent.com/claremacrae/machine-setup/clare-specific//golang-goland.ps1 | iex
 
 #Requires -RunAsAdministrator
 
