@@ -1,5 +1,5 @@
 # To run this script directly, run this in an elevated admin PowerShell prompt:
-#     Invoke-WebRequest -UseBasicParsing https://raw.githubusercontent.com/claremacrae/machine-setup/clare-specific//cplusplus-clion-and-visual-studio.ps1 | Invoke-Expression
+#     Invoke-WebRequest -UseBasicParsing https://raw.githubusercontent.com/claremacrae/machine-setup/clare-specific/cplusplus-clion-and-visual-studio.ps1 | Invoke-Expression
 
 #Requires -RunAsAdministrator
 

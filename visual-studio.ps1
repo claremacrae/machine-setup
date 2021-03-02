@@ -1,5 +1,5 @@
 # This script
-# iwr -useb https://raw.githubusercontent.com/claremacrae/machine-setup/clare-specific//visual-studio.ps1 | iex
+# iwr -useb https://raw.githubusercontent.com/claremacrae/machine-setup/clare-specific/visual-studio.ps1 | iex
 
 #Requires -RunAsAdministrator
 
